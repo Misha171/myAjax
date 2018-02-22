@@ -1,0 +1,14 @@
+table{
+	border-collapse: collapse;
+	background-color: yellow;
+}
+td{
+	border: 4px blue solid;
+	border-radius: 10px;
+	padding: 10px;
+}
+.delete{
+	background-color: red;
+	color: write;
+	padding: 10px;
+}

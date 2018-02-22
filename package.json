@@ -1,0 +1,19 @@
+{
+  "name": "ajax",
+  "version": "1.0.0",
+  "description": "ffggg",
+  "main": "server.js",
+  "scripts": {
+    "test": "server",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "fgghhjh"
+  ],
+  "author": "hjhkjk",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
